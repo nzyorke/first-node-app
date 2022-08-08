@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'GT Walsheim Md';
+  src:url('../fonts/GTWalsheimTrial-CnMd.woff') format('woff'),
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  url( '../fonts/GTWalsheimTrial-CnMd.ttf') format('truetype')
+  /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+@font-face {
+  font-family: 'Nib Pro SemiBold';
+  src:url('../fonts/NibPro-SemiBold.woff') format('woff'),
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  url( '../fonts/NibPro-SemiBold.ttf') format('truetype')
+  /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+@font-face {
+  font-family: 'Raisonne Pro Book';
+  src:url('../fonts/RaisonnePro-Book.woff') format('woff'),
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  url( '../fonts/RaisonnePro-Book.ttf') format('truetype')
+  /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+@font-face {
+  font-family: 'Raisonne Pro DemiBold';
+  src:url('../fonts/RaisonnePro-DemiBold.woff') format('woff'),
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  url( '../fonts/RaisonnePro-DemiBold.ttf') format('truetype')
+  /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+@font-face {
+  font-family: 'Gilroy Light';
+  src: url("../fonts/Gilroy-Medium.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Mabry Pro Regular';
+  src:url('../fonts/MabryPro-Regular.woff') format('woff'),
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  url( '../fonts/fonts/MabryPro-Regular.ttf') format('truetype')
+  /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+$GT-Walsheim-Md: 'GT Walsheim Md';
+$Nib-Pro-SemiBold: 'Nib Pro SemiBold';
+$Raisonne-Pro-Book: 'Raisonne Pro Book';
+$Raisonne-Pro-DemiBold: 'Raisonne Pro DemiBold';
+$Gilroy-Light: 'Gilroy Light';
+$Speco-Green: rgba(34, 66, 41, 1);
+$SpecoCream: rgba(252, 249, 244, 1);
+$Speco-Light-Green: rgba(96, 118, 100, 1);

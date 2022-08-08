@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "GT Walsheim Md";
+  src: url("../fonts/GTWalsheimTrial-CnMd.woff") format("woff"), url("../fonts/GTWalsheimTrial-CnMd.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nib Pro SemiBold";
+  src: url("../fonts/NibPro-SemiBold.woff") format("woff"), url("../fonts/NibPro-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Raisonne Pro Book";
+  src: url("../fonts/RaisonnePro-Book.woff") format("woff"), url("../fonts/RaisonnePro-Book.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Raisonne Pro DemiBold";
+  src: url("../fonts/RaisonnePro-DemiBold.woff") format("woff"), url("../fonts/RaisonnePro-DemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Gilroy Light";
+  src: url("../fonts/Gilroy-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mabry Pro Regular";
+  src: url("../fonts/MabryPro-Regular.woff") format("woff"), url("../fonts/fonts/MabryPro-Regular.ttf") format("truetype");
+}
